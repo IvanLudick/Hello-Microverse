@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+<a name="Hello Microverse, Readme"></a>
 
 <div align="center">
 
@@ -34,7 +34,6 @@
 # 📖 [Hello Micorverse] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
-
 **[Hello Microverse]** is a...
 
 ## 🛠 Built With <a name="VS Code"></a>
@@ -44,7 +43,6 @@
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
-
 - **[.Gitignore file]**
 - **[Linters]**
 - **[css, html]**
@@ -54,7 +52,6 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > Add a link to your deployed project.
-
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -88,7 +85,6 @@ You can deploy this project using:
 ## 👥 Authors <a name="Ivan Ludick"></a>
 
 > Mention all of the collaborators of this project.
-
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
@@ -114,7 +110,6 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 > Write a message to encourage readers to support your project
-
 If you like this project... be sure to keep an eye on my future projects
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -122,7 +117,6 @@ If you like this project... be sure to keep an eye on my future projects
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
-
 I would like to thank... my mentor
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
